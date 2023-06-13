@@ -1,0 +1,321 @@
+{
+  "contenido": [
+    {
+      "tag": "saludo",
+      "patrones": ["hola", "saludos", "hi", "hello"],
+      "respuestas": ["Hola, ¿qué tal?", "¿Cómo te va?", "Bienvenido"]
+    },
+    {
+      "tag": "despedida",
+      "patrones": ["adios", "hasta luego", "bye"],
+      "respuestas": ["Vuelve pronto", "Adieu", "Auf Wiederseh'n", "Cuchau"]
+    },
+    {
+      "tag": "furros",
+      "patrones": ["Kevin", "furros"],
+      "respuestas": ["Conozco a Kevin, él con gusto te hablará de los furros", "Kevin = furro, ve con él por más información", "Consulta a un médico, no a mí"]
+    },
+    {
+      "tag": "Angel",
+      "patrones": ["angel"],
+      "respuestas": ["El gran paladín del sol, era fuerte y poderoso pero no brillaba por su inteligencia", "Un estafador de cuidado, no temía probar suerte incluso con los más poderosos reyes"]
+    },
+    {
+      "tag": "Kevin",
+      "patrones": ["kevin"],
+      "respuestas": ["Poco se sabe de él, es como un Batman medieval", "El terror del imperio, tenía una ley de vida: si respira puede morir, y si puede morir él lo mata"]
+    },
+    {
+      "tag": "Discord",
+      "patrones": ["pon", "reproduce"],
+      "respuestas": ["Soy un asistente virtual para conectarme a la red", "!Gendial me gusta mucha esa canción", "Reproduciendo la música"]
+    },
+    {
+      "tag": "comida",
+      "patrones": ["comida", "alimentación", "cocina"],
+      "respuestas": ["¿Qué tipo de comida te gusta?", "¿Tienes alguna preferencia alimentaria?", "La comida es uno de los grandes placeres de la vida"]
+    },
+    {
+      "tag": "clima",
+      "patrones": ["clima", "tiempo", "temperatura"],
+      "respuestas": ["El clima puede ser impredecible a veces", "¿Qué tipo de clima te agrada?", "Espero que tengas un buen día, sin importar el clima"]
+    },
+    {
+      "tag": "deportes",
+      "patrones": ["deporte", "fútbol", "baloncesto", "tenis"],
+      "respuestas": ["¿Eres fanático de algún deporte en particular?", "El deporte es una excelente manera de mantenerse en forma", "¿Practicas algún deporte regularmente?"]
+    },
+    {
+      "tag": "tecnología",
+      "patrones": ["tecnología", "dispositivos", "innovación"],
+      "respuestas": ["La tecnología avanza a pasos agigantados", "¿Cuál es tu dispositivo tecnológico favorito?", "¿Has probado alguna nueva innovación recientemente?"]
+    },
+    {
+      "tag": "viajes",
+      "patrones": ["viaje", "vacaciones", "destino"],
+      "respuestas": ["¿Tienes algún destino de ensueño al que te gustaría viajar?", "Viajar es una forma maravillosa de explorar el mundo", "¿Cuál ha sido tu mejor experiencia de viaje hasta ahora?"]
+    },
+    {
+      "tag": "videojuegos",
+      "patrones": ["videojuegos", "juegos", "consolas"],
+      "respuestas": ["¿Eres fanático de los videojuegos?", "Los videojuegos ofrecen una experiencia de entretenimiento única", "¿Cuál es tu juego favorito de todos los tiempos?"]
+    },
+    {
+      "tag": "ciencia",
+      "patrones": ["ciencia", "investigación", "descubrimientos"],
+      "respuestas": ["La ciencia nos permite comprender el mundo que nos rodea", "¿Tienes algún campo científico que te interese en particular?", "Los avances científicos han transformado nuestra sociedad"]
+    },
+    {
+      "tag": "arte",
+      "patrones": ["arte", "pintura", "música"],
+      "respuestas": ["El arte es una expresión poderosa de la creatividad humana", "¿Tienes alguna forma de arte favorita?", "¿Has intentado alguna vez crear tu propia obra de arte?"]
+    },
+    {
+      "tag": "literatura",
+      "patrones": ["libro", "lectura", "escritura"],
+      "respuestas": ["La literatura nos transporta a mundos imaginarios", "¿Tienes algún libro favorito?", "¿Has intentado escribir tu propia historia?"]
+    },
+    {
+      "tag": "salud",
+      "patrones": ["salud", "bienestar", "ejercicio"],
+      "respuestas": ["La salud es un tesoro invaluable", "¿Qué haces para cuidar tu bienestar?", "El ejercicio regular es clave para mantener una buena salud"]
+    },
+    {
+      "tag": "moda",
+      "patrones": ["moda", "ropa", "estilo"],
+      "respuestas": ["La moda es una forma de expresión personal", "¿Tienes algún estilo de moda favorito?", "¿Cuál es tu prenda de vestir imprescindible?"]
+    },
+    {
+      "tag": "historia",
+      "patrones": ["historia", "pasado", "eventos"],
+      "respuestas": ["La historia nos permite aprender del pasado", "¿Hay algún período histórico que te fascine?", "¿Cuál es tu hecho histórico favorito?"]
+    },
+    {
+      "tag": "musica",
+      "patrones": ["musica", "cancion", "genero"],
+      "respuestas": ["La música es un lenguaje universal", "¿Qué tipo de música te gusta?", "¿Cuál es tu canción favorita en este momento?"]
+    },
+    {
+      "tag": "educacion",
+      "patrones": ["educacion", "aprendizaje", "estudio"],
+      "respuestas": ["La educación es la base para el crecimiento personal", "¿Estás estudiando algo en este momento?", "¿Cuál ha sido tu experiencia de aprendizaje más memorable?"]
+    },
+    {
+      "tag": "meditacion",
+      "patrones": ["meditacion", "mindfulness", "relajacion"],
+      "respuestas": ["La meditación es una práctica que promueve la calma y la claridad mental", "¿Has probado alguna vez la meditación?", "La meditación puede ayudarte a reducir el estrés"]
+    },
+    {
+      "tag": "animales",
+      "patrones": ["animales", "mascotas", "naturaleza"],
+      "respuestas": ["¿Tienes alguna mascota?", "Los animales son seres maravillosos que merecen nuestro respeto", "¿Cuál es tu animal favorito?"]
+    },
+    {
+      "tag": "television",
+      "patrones": ["television", "series", "programas"],
+      "respuestas": ["¿Eres fanático de alguna serie de televisión?", "La televisión ofrece una amplia variedad de programas para todos los gustos", "¿Cuál es tu serie de televisión favorita en este momento?"]
+    },
+    {
+      "tag": "teatro",
+      "patrones": ["teatro", "actuacion", "dramaturgia"],
+      "respuestas": ["El teatro es una forma de arte en vivo llena de emociones", "¿Has asistido alguna vez a una obra de teatro?", "¿Te gusta actuar o estar en el escenario?"]
+    },
+    {
+      "tag": "tecnologia",
+      "patrones": ["inteligencia artificial", "robotica", "innovacion"],
+      "respuestas": ["La inteligencia artificial y la robótica están transformando nuestras vidas", "¿Tienes curiosidad por la última innovación tecnológica?", "¿Qué te parece el futuro de la tecnología?"]
+    },
+    {
+      "tag": "negocios",
+      "patrones": ["emprendimiento", "startups", "estrategia"],
+      "respuestas": ["Los negocios y el emprendimiento son motores de la economía", "¿Has pensado en iniciar tu propio negocio?", "¿Cuál es tu estrategia favorita para el éxito empresarial?"]
+    },
+    {
+      "tag": "medicina",
+      "patrones": ["medicina", "salud", "enfermedades"],
+      "respuestas": ["La medicina es una disciplina que busca preservar y mejorar la salud", "¿Tienes alguna pregunta sobre temas de salud?", "¿Qué aspecto de la medicina te resulta más interesante?"]
+    },
+    {
+      "tag": "ciencia ficcion",
+      "patrones": ["ciencia ficcion", "espacio", "futuro"],
+      "respuestas": ["La ciencia ficción nos transporta a mundos imaginarios y futuros posibles", "¿Cuál es tu película o libro de ciencia ficción favorito?", "¿Te gustaría viajar al espacio en el futuro?"]
+    },
+    {
+      "tag": "filosofia",
+      "patrones": ["filosofia", "pensamiento", "existencia"],
+      "respuestas": ["La filosofía nos invita a reflexionar sobre las preguntas fundamentales de la vida", "¿Tienes alguna pregunta filosófica que te inquiete?", "¿Qué filósofo te ha inspirado más?"]
+    },
+    {
+      "tag": "astronomia",
+      "patrones": ["astronomia", "cosmos", "estrellas"],
+      "respuestas": ["La astronomía nos revela la grandeza y misterios del universo", "¿Has observado alguna vez el cielo estrellado?", "¿Cuál es tu fenómeno astronómico favorito?"]
+    },
+    {
+      "tag": "coches",
+      "patrones": ["coches", "automoviles", "velocidad"],
+      "respuestas": ["¿Eres un apasionado de los coches?", "Los automóviles son una parte importante de nuestra sociedad", "¿Cuál es tu marca o modelo de coche favorito?"]
+    },
+    {
+      "tag": "psicologia",
+      "patrones": ["psicologia", "mente", "emociones"],
+      "respuestas": ["La psicología nos ayuda a comprender nuestra mente y nuestras emociones", "¿Has tenido alguna experiencia con un psicólogo?", "¿Cuál es tu teoría psicológica favorita?"]
+    },
+    {
+      "tag": "viajes en el tiempo",
+      "patrones": ["viajes en el tiempo", "paradojas", "futuro"],
+      "respuestas": ["Los viajes en el tiempo son un tema fascinante de la ciencia ficción", "Si pudieras viajar en el tiempo, ¿a qué época irías?", "¿Crees que los viajes en el tiempo serán posibles en el futuro?"]
+    },
+    {
+      "tag": "magia",
+      "patrones": ["magia", "ilusionismo", "hechicería", "conjuros"],
+      "respuestas": ["La magia es un arte antiguo que fascina a las personas desde tiempos inmemoriales. ¿Alguna vez has presenciado un truco de magia que te dejó perplejo?", "Los magos dominan el arte de crear ilusiones y sorprender a su audiencia. ¿Tienes algún truco de magia favorito?", "Imagina poder lanzar conjuros y hacer realidad tus deseos. Si pudieras tener un poder mágico, ¿cuál sería?"]
+    },
+    {
+      "tag": "viajes espaciales",
+      "patrones": ["viajes espaciales", "exploración espacial", "astronautas", "colonización de planetas"],
+      "respuestas": ["Los viajes espaciales son el sueño de la humanidad. Imagina poder explorar otros planetas y descubrir nuevos horizontes. ¿Te gustaría ser astronauta?", "La exploración espacial nos permite aprender más sobre nuestro universo y desafiar los límites de la tecnología. Si pudieras visitar un planeta del sistema solar, ¿cuál elegirías?", "La colonización de otros planetas es una meta ambiciosa para el futuro. ¿Crees que la humanidad logrará establecer colonias en otros mundos?"]
+    },
+    {
+      "tag": "fantasía",
+      "patrones": ["fantasía", "criaturas mágicas", "mundos imaginarios", "aventuras épicas"],
+      "respuestas": ["La fantasía nos transporta a mundos imaginarios llenos de criaturas mágicas y aventuras épicas. ¿Tienes alguna saga o libro de fantasía favorito?", "Imagina un mundo donde los dragones vuelan por los cielos y los elfos y enanos luchan por la libertad. Si pudieras vivir en un mundo de fantasía, ¿cómo sería tu personaje?", "La fantasía nos permite escapar de la realidad y vivir grandes hazañas. ¿Cuál es tu escenario de fantasía ideal?"]
+    },
+    {
+      "tag": "arqueología",
+      "patrones": ["arqueología", "antiguas civilizaciones", "excavaciones", "descubrimientos históricos"],
+      "respuestas": ["La arqueología nos permite desenterrar los vestigios del pasado y comprender las antiguas civilizaciones. ¿Tienes curiosidad por algún período histórico en particular?", "Imagina ser un arqueólogo y descubrir una ciudad perdida o un tesoro oculto. ¿Qué lugar te gustaría explorar?", "Los descubrimientos arqueológicos revelan secretos fascinantes sobre nuestro pasado. ¿Cuál crees que ha sido el descubrimiento arqueológico más impactante hasta ahora?"]
+    },
+    {
+      "tag": "futurismo",
+      "patrones": ["futurismo", "tecnologías futuristas", "sociedad del mañana", "avances científicos"],
+      "respuestas": ["El futurismo nos invita a imaginar cómo será el mundo del mañana y cómo la tecnología transformará nuestra sociedad. ¿Tienes alguna visión futurista que te emocione?", "Imagina un mundo donde los coches vuelan, las ciudades son autosuficientes y la inteligencia artificial es parte de nuestra vida cotidiana. ¿Cómo crees que sería la sociedad del futuro?", "Los avances científicos están acelerando el ritmo de la innovación. ¿Cuál es el avance tecnológico más emocionante que esperas ver en un futuro cercano?"]
+    },
+    {
+      "tag": "gastronomía",
+      "patrones": ["gastronomía", "cocina", "recetas", "sabores"],
+      "respuestas": ["La gastronomía es un arte culinario que combina sabores, texturas y creatividad. ¿Tienes alguna especialidad culinaria que te apasione?", "Imagina ser un chef famoso y poder crear platos exquisitos que deleiten a los comensales. Si tuvieras un restaurante propio, ¿qué tipo de cocina ofrecerías?", "La gastronomía nos permite explorar culturas a través de sus sabores. ¿Cuál es tu comida internacional favorita?"]
+    },
+    {
+      "tag": "superhéroes",
+      "patrones": ["superhéroes", "poderes sobrenaturales", "villanos", "salvar el mundo"],
+      "respuestas": ["Los superhéroes son personajes icónicos que luchan contra el mal y protegen a los inocentes. ¿Cuál es tu superhéroe favorito y por qué?", "Imagina tener un poder sobrenatural y la responsabilidad de usarlo para hacer el bien. Si fueras un superhéroe, ¿cuál sería tu nombre y poder?", "Los villanos son una parte crucial de las historias de superhéroes. ¿Cuál es tu villano favorito y qué lo hace interesante?"]
+    },
+    {
+      "tag": "música",
+      "patrones": ["música", "géneros musicales", "conciertos", "letras de canciones"],
+      "respuestas": ["La música es un lenguaje universal que nos inspira y nos emociona. ¿Tienes algún género musical favorito o alguna canción que te haga sentir especial?", "Imagina asistir a un concierto épico de tu banda o artista favorito. ¿Cómo sería la experiencia y cuál sería la canción que más te emocionaría escuchar en vivo?", "Las letras de las canciones pueden transmitir emociones profundas y contar historias. ¿Tienes alguna letra de canción que te haya impactado o que te identifique?"]
+    },
+    {
+      "tag": "deportes",
+      "patrones": ["deportes", "atletismo", "competencias", "logros deportivos"],
+      "respuestas": ["El deporte es una pasión que une a personas de diferentes culturas y países. ¿Cuál es tu deporte favorito y por qué te gusta?", "Imagina ser un atleta de élite y competir en los Juegos Olímpicos representando a tu país. ¿En qué disciplina te gustaría destacar?", "Los logros deportivos son un testimonio de dedicación y esfuerzo. ¿Cuál consideras que ha sido el mayor logro deportivo en la historia?"]
+    },
+    {
+      "tag": "ciudades del mundo",
+      "patrones": ["ciudades del mundo", "viajes", "lugares turísticos", "culturas locales"],
+      "respuestas": ["El mundo está lleno de ciudades fascinantes, cada una con su propia identidad y cultura. ¿Tienes alguna ciudad que te gustaría visitar y explorar?", "Imagina recorrer las calles de una ciudad llena de historia, disfrutar de su gastronomía y conocer a su gente. ¿Cuál es tu ciudad favorita y por qué?", "Las ciudades del mundo son una mezcla de tradiciones y modernidad. ¿Cuál crees que es la ciudad más vibrante y emocionante del mundo?"]
+    },
+    {
+      "tag": "vino",
+      "patrones": ["vino", "enología", "catas de vino", "maridaje"],
+      "respuestas": ["El vino es una bebida apreciada por su complejidad y variedad de sabores. ¿Tienes algún vino favorito o alguna experiencia memorable con el vino?", "Las catas de vino son una forma de explorar y descubrir nuevos sabores. ¿Has participado en alguna cata de vino y qué te pareció?", "El maridaje adecuado puede realzar tanto la comida como el vino. ¿Tienes alguna recomendación de maridaje que te guste especialmente?"]
+    },
+    {
+      "tag": "erotismo",
+      "patrones": ["erotismo", "deseo", "sexualidad", "fantasías"],
+      "respuestas": ["El erotismo es una expresión artística y emocional de la sexualidad. ¿Qué opinas sobre la importancia de la sensualidad en nuestras vidas?", "La exploración de las fantasías eróticas puede ser una forma de enriquecer la vida sexual. ¿Tienes alguna fantasía que te gustaría compartir o realizar?", "La comunicación abierta y el consentimiento son fundamentales en las relaciones eróticas. ¿Qué crees que es importante recordar para mantener una vida sexual saludable y satisfactoria?"]
+    },
+    {
+      "tag": "cine para adultos",
+      "patrones": ["cine para adultos", "películas eróticas", "cine X", "actores y actrices porno"],
+      "respuestas": ["El cine para adultos es un género que explora la sexualidad de manera más explícita. ¿Tienes alguna película o actor/actriz porno favorito?", "Las películas eróticas pueden despertar la imaginación y estimular la intimidad. ¿Tienes alguna recomendación de película erótica que te haya impactado?", "El cine para adultos puede ser una fuente de entretenimiento y exploración de fantasías. ¿Cuál crees que es el impacto cultural del cine X en nuestra sociedad?"]
+    },
+    {
+      "tag": "moda y estilo",
+      "patrones": ["moda", "tendencias", "estilo personal", "diseñadores de moda"],
+      "respuestas": ["La moda es una forma de expresión personal y artística. ¿Qué importancia le das a tu estilo y cómo lo defines?", "Las tendencias de moda pueden ser emocionantes y cambiantes. ¿Sigues alguna tendencia actual o prefieres crear tu propio estilo?", "Los diseñadores de moda son creadores de arte en tela. ¿Tienes algún diseñador favorito o alguna marca de moda que te inspire?"]
+    },
+    {
+      "tag": "viajes exóticos",
+      "patrones": ["viajes exóticos", "destinos remotos", "culturas exóticas", "aventuras inolvidables"],
+      "respuestas": ["Los viajes exóticos nos permiten sumergirnos en culturas y paisajes totalmente diferentes. ¿Tienes algún destino exótico que sueñes con visitar?", "La exploración de culturas exóticas puede ser una experiencia enriquecedora. ¿Has tenido algún encuentro cultural impactante durante tus viajes?", "Las aventuras en destinos remotos pueden dejarnos recuerdos inolvidables. ¿Tienes alguna experiencia de viaje exótica que te haya marcado?"]
+    },
+    {
+      "tag": "coctelería",
+      "patrones": ["coctelería", "mixología", "bebidas artesanales", "bartenders"],
+      "respuestas": ["La coctelería es un arte que combina sabores y técnicas para crear bebidas únicas. ¿Tienes algún cóctel favorito o alguna receta casera que te guste preparar?", "La mixología es una disciplina que explora la creatividad en la elaboración de bebidas. ¿Has probado alguna creación de un bartender que te haya sorprendido?", "Las bebidas artesanales están en auge, con ingredientes frescos y combinaciones innovadoras. ¿Tienes alguna recomendación de una bebida artesanal que haya dejado una impresión duradera en ti?"]
+    },
+    {
+      "tag": "literatura erótica",
+      "patrones": ["literatura erótica", "novelas eróticas", "escritores eróticos", "escenas sensuales"],
+      "respuestas": ["La literatura erótica es una forma de explorar la sexualidad a través de las palabras. ¿Tienes algún libro erótico favorito o alguna escena sensual que te haya impactado?", "Los escritores eróticos tienen el talento de despertar los sentidos y la imaginación. ¿Tienes algún autor o autora erótica que te guste especialmente?", "La literatura erótica puede ser una forma de aprender sobre nuestros deseos y fantasías. ¿Qué crees que hace que la literatura erótica sea tan atractiva para muchas personas?"]
+    },
+    {
+      "tag": "relaciones abiertas",
+      "patrones": ["relaciones abiertas", "poliamor", "no monogamia", "comunicación en relaciones"],
+      "respuestas": ["Las relaciones abiertas y el poliamor son formas alternativas de construir conexiones afectivas. ¿Tienes alguna experiencia o perspectiva sobre las relaciones no monogámicas?", "La comunicación abierta y honesta es fundamental en las relaciones abiertas. ¿Cómo crees que se pueden mantener relaciones saludables y satisfactorias en este tipo de dinámicas?", "Las relaciones abiertas desafían los modelos tradicionales de pareja y amor. ¿Qué crees que pueden aportar estas relaciones a las personas que las eligen?"]
+    },
+    {
+      "tag": "filosofía",
+      "patrones": ["filosofía", "pensamiento crítico", "existencialismo", "reflexiones profundas"],
+      "respuestas": ["La filosofía nos invita a cuestionar el mundo y reflexionar sobre nuestra existencia. ¿Tienes alguna corriente filosófica que te interese o alguna pregunta existencial que te haya mantenido pensando?", "El pensamiento crítico es una herramienta valiosa para analizar y comprender el mundo. ¿Cómo crees que la filosofía puede ayudarnos en nuestra vida diaria?", "Las reflexiones filosóficas pueden llevarnos a profundas introspecciones y a nuevas formas de entender el mundo. ¿Qué crees que es lo más impactante o revelador que has descubierto a través de la filosofía?"]
+    },
+    {
+      "tag": "finanzas personales",
+      "patrones": ["finanzas personales", "inversiones", "ahorro", "independencia financiera"],
+      "respuestas": ["Las finanzas personales son clave para tener una vida económica estable. ¿Tienes algún consejo o estrategia financiera que te haya funcionado?", "Las inversiones inteligentes pueden ser una forma de hacer crecer nuestro dinero. ¿Tienes algún tipo de inversión favorito o alguna experiencia en el mundo de las finanzas que te gustaría compartir?", "La independencia financiera es un objetivo que muchas personas persiguen. ¿Qué significa para ti ser financieramente independiente y cómo crees que se puede lograr?"]
+    },
+    {
+      "tag": "FC Barcelona",
+      "patrones": ["FC Barcelona", "Barça", "Camp Nou", "Messi"],
+      "respuestas": ["El FC Barcelona es uno de los equipos más icónicos y exitosos del fútbol mundial. ¿Cuál es tu jugador favorito del Barcelona y por qué?", "El Camp Nou es el estadio del FC Barcelona y ha sido testigo de innumerables momentos emocionantes. ¿Tienes alguna anécdota o recuerdo especial relacionado con el estadio?", "La era de Messi en el Barcelona dejó una huella imborrable en la historia del club. ¿Cuál crees que fue el legado más importante de Messi durante su tiempo en el Barcelona?"]
+    },
+    {
+      "tag": "Real Madrid",
+      "patrones": ["Real Madrid", "Merengues", "Santiago Bernabéu", "Cristiano Ronaldo"],
+      "respuestas": ["El Real Madrid es uno de los equipos más laureados y reconocidos a nivel mundial. ¿Tienes algún momento memorable del Real Madrid que te haya emocionado?", "El Santiago Bernabéu es el mítico estadio del Real Madrid y ha sido escenario de grandes gestas. ¿Qué crees que hace al Bernabéu un lugar tan especial para los aficionados?", "Cristiano Ronaldo dejó una huella imborrable en el Real Madrid. ¿Cuál es tu recuerdo favorito de Cristiano Ronaldo durante su etapa en el club?"]
+    },
+    {
+      "tag": "Manchester United",
+      "patrones": ["Manchester United", "Red Devils", "Old Trafford", "Sir Alex Ferguson"],
+      "respuestas": ["El Manchester United es uno de los clubes más emblemáticos de Inglaterra y ha protagonizado grandes rivalidades. ¿Cuál es tu rivalidad favorita del Manchester United y por qué?", "Old Trafford es el histórico estadio del Manchester United y ha sido escenario de momentos inolvidables. ¿Tienes algún recuerdo especial relacionado con el estadio?", "Sir Alex Ferguson es considerado uno de los mejores entrenadores en la historia del fútbol. ¿Cuál crees que fue su mayor logro durante su tiempo al mando del Manchester United?"]
+    },
+    {
+      "tag": "FC Bayern Munich",
+      "patrones": ["FC Bayern Munich", "Bayern", "Allianz Arena", "Lewandowski"],
+      "respuestas": ["El FC Bayern Munich es uno de los equipos más exitosos de Alemania y Europa. ¿Cuál es tu momento favorito del Bayern Munich en competiciones internacionales?", "El Allianz Arena, hogar del Bayern Munich, es un estadio impresionante con una atmósfera única. ¿Has tenido la oportunidad de presenciar un partido en el estadio?", "Lewandowski es un goleador destacado y ha dejado una marca importante en el Bayern Munich. ¿Cuál es tu gol favorito de Lewandowski con el equipo?"]
+    },
+    {
+      "tag": "Juventus",
+      "patrones": ["Juventus", "La Vecchia Signora", "Allianz Stadium", "Cristiano Ronaldo"],
+      "respuestas": ["La Juventus es uno de los equipos más emblemáticos de Italia y ha dominado la Serie A en los últimos años. ¿Cuál es tu título de la Juventus más memorable?", "El Allianz Stadium, casa de la Juventus, es un estadio moderno y vibrante. ¿Qué es lo que más te gusta del ambiente en el estadio?", "Cristiano Ronaldo ha tenido un impacto significativo en la Juventus desde su llegada. ¿Qué crees que ha aportado Cristiano Ronaldo al equipo durante su tiempo en el club?"]
+    },
+    {
+      "tag": "Liverpool FC",
+      "patrones": ["Liverpool FC", "The Reds", "Anfield", "Jurgen Klopp"],
+      "respuestas": ["El Liverpool FC es conocido por su espíritu luchador y su afición apasionada. ¿Cuál es tu partido más emocionante o memorable del Liverpool?", "Anfield, el icónico estadio del Liverpool, es famoso por su atmósfera única y su famoso canto de ","You'll Never Walk Alone","¿Has tenido la oportunidad de vivir un partido en Anfield?", "Jurgen Klopp ha sido el entrenador que ha llevado al Liverpool a la gloria recientemente. ¿Qué crees que ha aportado Klopp al equipo y a la ciudad de Liverpool?"]
+    },
+    {
+      "tag": "Paris Saint-Germain",
+      "patrones": ["Paris Saint-Germain", "PSG", "Parc des Princes", "Neymar"],
+      "respuestas": ["El Paris Saint-Germain ha emergido como uno de los clubes más poderosos de Europa en los últimos años. ¿Cuál es tu momento favorito del PSG en competiciones europeas?", "El Parc des Princes es el estadio del PSG y ha sido escenario de grandes duelos. ¿Tienes alguna anécdota o recuerdo especial relacionado con el estadio?", "Neymar es una de las estrellas más destacadas del PSG. ¿Cuál es tu recuerdo favorito de Neymar con el club?"]
+    },
+    {
+      "tag": "FC Porto",
+      "patrones": ["FC Porto", "Dragões", "Estádio do Dragão", "José Mourinho"],
+      "respuestas": ["El FC Porto es un club histórico de Portugal y ha tenido grandes éxitos en competiciones europeas. ¿Cuál es tu victoria más memorable del FC Porto en competiciones internacionales?", "El Estádio do Dragão, sede del FC Porto, es un estadio impresionante con una gran atmósfera. ¿Has tenido la oportunidad de asistir a un partido en el estadio?", "José Mourinho dejó una huella imborrable en el FC Porto. ¿Cuál crees que fue su mayor logro durante su tiempo como entrenador del club?"]
+    },
+    {
+      "tag": "Boca Juniors",
+      "patrones": ["Boca Juniors", "Xeneizes", "La Bombonera", "Maradona"],
+      "respuestas": ["Boca Juniors es uno de los clubes más populares y exitosos de Argentina. ¿Cuál es tu partido más emocionante o memorable de Boca Juniors?", "La Bombonera, el mítico estadio de Boca Juniors, es famoso por su atmósfera apasionada y su característico ","Hola y Adiós" ,"¿Qué es lo que más te gusta del ambiente en el estadio?", "Maradona es uno de los ídolos más grandes del fútbol argentino y tuvo una etapa destacada en Boca Juniors. ¿Cuál es tu recuerdo favorito de Maradona en el club?"]
+    },
+    {
+      "tag": "Club América",
+      "patrones": ["Club América", "Las Águilas", "Estadio Azteca", "Cuauhtémoc Blanco"],
+      "respuestas": ["El Club América es uno de los equipos más populares y exitosos de México. ¿Cuál es tu título más memorable del Club América?", "El Estadio Azteca, hogar del Club América, es uno de los estadios más emblemáticos del fútbol mundial. ¿Has tenido la oportunidad de asistir a un partido en el estadio?", "Cuauhtémoc Blanco es considerado uno de los ídolos más grandes del Club América. ¿Cuál es tu recuerdo favorito de Cuauhtémoc Blanco en el equipo?"]
+    }
+
+
+  ]
+}
